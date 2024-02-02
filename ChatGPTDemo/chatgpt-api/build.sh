@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t nanfeng2023/chatgpt-api:1.0 .
