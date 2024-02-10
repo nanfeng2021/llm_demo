@@ -8,6 +8,8 @@
     <artifactId>chatglm-sdk-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>jar</packaging>
+
     <name>chatglm-sdk-java</name>
     <description>GLM Java SDK, ChatGLM Java SDK .</description>
 
